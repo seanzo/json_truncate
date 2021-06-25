@@ -20,8 +20,8 @@ person = {
 }
 
 JsonTruncate.truncate(person,
-    max_depth: 1,
-    max_string_length: 10,
+    max_depth: 2,
+    max_string_length: 20,
     max_array_length: 2,
 )
 
